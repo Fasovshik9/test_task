@@ -1,4 +1,3 @@
-http://10.10.5.165:9003/aowdata/traces/selectel/184932_trace_social_32786_2023-12-01_20-42-28.log
 # Задание:
 1. Подготовить Docker-образы ElasticSearch, Kibana, Logstash, Filebeat 6.7.2 и 7.7.0 версий
 2. С помощью ansible уметь моментально разворачивать стек ELKF обоих версий
